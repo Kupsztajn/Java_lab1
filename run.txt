@@ -1,0 +1,7 @@
+javac HelloAnonymousWorld.java
+java HelloAnonymousWorld
+
+java efs/onefile/HelloOneFileWorld.java
+
+javac ./efs/manyfiles/*.java
+java efs.manyfiles.HelloWorld
